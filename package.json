@@ -1,0 +1,38 @@
+{
+  "name": "flipkartserver",
+  "version": "1.0.0",
+  "description": "flipkartclone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flipkart-install": "cd flipkart && npm install",
+    "flipkart-build":"cd flipkart && npm run build",
+    "heroku-postbuild": "npm run flipkart-install && npm run flipkart-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranayainchwar/flipkartclone.git"
+  },
+  "keywords": [
+    "flipkartclone"
+  ],
+  "author": "Pranay Ainchwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranayainchwar/flipkartclone/issues"
+  },
+  "homepage": "https://github.com/pranayainchwar/flipkartclone#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "formidable": "^3.5.0",
+    "https": "^1.0.0",
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
