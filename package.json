@@ -8,7 +8,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "flipkart-install": "cd flipkart && npm install",
-    "flipkart-build":"cd flipkart && npm run build",
+    "flipkart-build": "cd flipkart && npm run build",
     "heroku-postbuild": "npm run flipkart-install && npm run flipkart-build"
   },
   "repository": {
@@ -32,7 +32,7 @@
     "formidable": "^3.5.0",
     "https": "^1.0.0",
     "mongoose": "^7.3.1",
-    "nodemon": "^2.0.22",
+    "nodemon": "^3.0.1",
     "uuid": "^9.0.0"
   }
 }
