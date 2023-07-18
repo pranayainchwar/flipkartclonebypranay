@@ -1,4 +1,4 @@
-# flipkartclonebypranay
+# flipkartclonebypranay  Hosted URL: https://flipkartfrontend-git-main-pranayainchwar.vercel.app
 
 Today, I'm excited to share with you a web development project I've been working on: a Flipkart clone built using the MERN stack. As most of you know, Flipkart is a popular e-commerce platform, and my goal was to recreate its core functionality and design using the MERN stack.
 
@@ -8,7 +8,7 @@ Now, let's dive into the technology stack used to build this project. The MERN s
 
 Throughout the development process, I followed best practices and employed additional tools and libraries. I modularized the codebase for better organization, reusability, and maintainability. For state management, I utilized Redux, enabling seamless data flow between components. To handle API calls, I relied on Axios, a popular JavaScript library. Mongoose, an object modeling tool, facilitated interaction with the MongoDB database, providing a streamlined data handling process.
 
-Thorough testing was a crucial aspect of the project. I used testing frameworks like Jest and Mocha to write unit tests and perform integration testing, ensuring the functionality and stability of the application. For deployment, I chose a cloud platform, such as Render & vercel, to make the Flipkart clone accessible to users.
+Thorough testing was a crucial aspect of the project. I used testing frameworks like Jest and Mocha to write unit tests and perform integration testing, ensuring the functionality and stability of the application. For deployment, I chose a cloud platform, such as Render & vercel, {Hosted URL: https://flipkartfrontend-git-main-pranayainchwar.vercel.app} to make the Flipkart clone accessible to users.
 
 Looking ahead, there are several areas for future improvements. I envision implementing features like personalized product recommendations, user notifications, and social media integrations to enhance the user experience and engagement. Continuous learning and improvement are at the core of my development journey, and I'm excited to explore these possibilities.
 
