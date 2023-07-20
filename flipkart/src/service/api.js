@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "";
+const URL = "https://flipkart-backend-mvmk.onrender.com";
 //http://localhost:8000 (for deveopeing mode )
 
 export const authenticateSignup = async (data) => {
@@ -19,4 +19,3 @@ export const authenticateLogin = async (data) => {
     return error.response;
   }
 };
-

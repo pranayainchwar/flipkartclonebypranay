@@ -4,7 +4,7 @@ import axios from 'axios';
  //or
  import * as actionTypes from '../constants/productConstants'; 
 
-const URL = '';
+const URL = "https://flipkart-backend-mvmk.onrender.com";
 //http://localhost:8000 (for deveopeing mode )
 
 

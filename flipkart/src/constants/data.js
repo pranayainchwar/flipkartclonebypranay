@@ -54,6 +54,10 @@ export const bannerData = [
     id: 4,
     url: "https://rukminim1.flixcart.com/flap/3376/560/image/f6202f13b6f89b03.jpg?q=50",
   },
+  {
+    id: 5,
+    url: "https://rukminim2.flixcart.com/fk-p-flap/844/140/image/d816d329ee05b775.jpg?q=50",
+  },
 ];
 
 
