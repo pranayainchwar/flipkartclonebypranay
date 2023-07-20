@@ -1,4 +1,8 @@
 # flipkartclonebypranay  Hosted URL: https://flipkartfrontend-git-main-pranayainchwar.vercel.app
+#output 
+![Flipkart Image ](https://github.com/pranayainchwar/flipkartclonebypranay.github.io/assets/122523118/b48be273-dba4-4f1e-b98e-250ba05d18fe)
+
+
 
 Today, I'm excited to share with you a web development project I've been working on: a Flipkart clone built using the MERN stack. As most of you know, Flipkart is a popular e-commerce platform, and my goal was to recreate its core functionality and design using the MERN stack.
 
